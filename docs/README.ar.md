@@ -1,0 +1,188 @@
+<div align="center">
+
+# 🛡️ SheerID Verification Tool
+
+[![GitHub Stars](https://img.shields.io/github/stars/ThanhNguyxn/SheerID-Verification-Tool?style=social)](https://github.com/ThanhNguyxn/SheerID-Verification-Tool/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ThanhNguyxn/SheerID-Verification-Tool?style=social)](https://github.com/ThanhNguyxn/SheerID-Verification-Tool/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**دليل شامل متعدد اللغات لمساعدة الطلاب في الحصول على Gemini Advanced مجانًا من خلال برنامج Google للطلاب.**
+
+<p align="center">
+  <a href="https://thanhnguyxn.github.io/SheerID-Verification-Tool/">
+    <img src="https://img.shields.io/badge/Live_Tool-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Tool">
+  </a>
+  <a href="https://thanhnguyxn.github.io/student-card-generator/">
+    <img src="https://img.shields.io/badge/Card_Generator-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Student Card Generator">
+  </a>
+  <a href="#-جدول-المحتويات">
+    <img src="https://img.shields.io/badge/Documentation-gray?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation">
+  </a>
+  <a href="https://github.com/ThanhNguyxn/SheerID-Verification-Tool/issues">
+    <img src="https://img.shields.io/badge/Report_Bug-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug">
+  </a>
+</p>
+
+</div>
+
+
+
+---
+
+## 📖 حول المشروع
+
+توفر **أداة التحقق SheerID** دليلاً خطوة بخطوة للطلاب في جميع أنحاء العالم للوصول إلى منصة الذكاء الاصطناعي Gemini Advanced من Google مجانًا. تبسط هذه الأداة عملية التحقق باستخدام نظام التحقق من الطلاب SheerID، مما يسمح للطلاب بفتح ميزات متميزة بما في ذلك Gemini Advanced، و2 تيرابايت من مساحة تخزين Google Drive، وNotebookLM Pro، وأرصدة إنشاء الفيديو بالذكاء الاصطناعي.
+
+### ✨ الميزات
+
+- 🌍 **دعم متعدد اللغات** - متوفر باللغات الإنجليزية والفيتنامية والإسبانية والفرنسية والألمانية والصينية والبرتغالية والروسية واليابانية والكورية والإندونيسية والهندية والعربية والتركية والإيطالية والتايلاندية والبولندية
+- 📋 **دليل خطوة بخطوة** - تعليمات واضحة لعملية التحقق بأكملها
+- 🔒 **التركيز على الأمان** - يؤكد على الممارسات الآمنة والمصادر الموثوقة
+- 🎁 **مزايا متميزة** - الوصول إلى Gemini Advanced ومساحة تخزين 2 تيرابايت والمزيد لمدة 12 شهرًا
+- 🤖 **تكامل بوت تيليجرام** - التحقق الآلي من خلال بوتات تيليجرام الآمنة
+- 🆓 **مجاني تمامًا** - لا توجد تكاليف خفية خلال فترة الطالب المجانية
+
+---
+
+## 📚 جدول المحتويات
+
+- [📋 المتطلبات](#-المتطلبات)
+- [🚀 التثبيت والاستخدام](#-التثبيت-والاستخدام)
+- [🎁 المزايا](#-المزايا)
+- [⚠️ ملاحظات الأمان](#️-ملاحظات-الأمان)
+- [🔗 موارد إضافية](#-موارد-إضافية)
+- [💖 دعم المشروع](#-دعم-المشروع)
+- [📄 الترخيص](#-الترخيص)
+
+---
+
+## 📋 المتطلبات
+
+قبل البدء، تأكد من أن لديك:
+
+- ✅ **حساب تيليجرام** - للتحقق عبر البوت
+- ✅ **حساب Google** - حساب Google صالح يستوفي متطلبات العمر للتحقق من الطلاب (عادة الطلاب المسجلون 18+ عامًا)
+- ✅ **طريقة دفع صالحة** - بطاقة بنكية أو محفظة إلكترونية (لا توجد رسوم للباقة المجانية)
+- ✅ **VPN** - (مثل Urban VPN) لتغيير المنطقة إلى المملكة المتحدة أو فيتنام أو دول مؤهلة أخرى إذا لزم الأمر
+
+## 🚀 التثبيت والاستخدام
+
+### 🌐 الخطوة 1: إنشاء ملف تعريف متصفح جديد
+
+قم بإنشاء ملف تعريف متصفح جديد أو استخدم وضع التصفح المتخفي لتجنب تعارض البيانات.
+
+### 🎓 الخطوة 2: الوصول إلى برنامج الطلاب
+
+1. قم بزيارة [https://gemini.google/students](https://gemini.google/students)
+2. انقر فوق **Join Student Program** لاستلام رابط التحقق الخاص بك
+
+> [!IMPORTANT]
+> **أهلية البلد:** إذا كان بلدك غير مدعوم، استخدم VPN (انظر [المتطلبات](#-المتطلبات)) للتبديل إلى بلد مؤهل (المملكة المتحدة، فيتنام، إلخ).
+> 
+> **💡 نصيحة:** ابحث عبر الإنترنت عن "Google Student Program supported countries" أو اسأل الذكاء الاصطناعي عن أحدث المناطق المؤهلة.
+
+### 📱 الخطوة 3: التحقق من حالة الطالب عبر تيليجرام
+
+1. افتح تيليجرام وادخل إلى أحد هذه البوتات:
+   - [SheerID Verify Bot](https://t.me/sheeridverify_bot?start=invite_7762497789)
+   - [SheerID VIP Bot](https://t.me/SheerID_VIP_Bot?start=ref_REF001124)
+
+2. أرسل هذا الأمر:
+   ```
+   /verify https://services.sheerid.com/verify/***
+   ```
+   *(استبدل برابط التحقق الخاص بك)*
+
+3. انتظر تأكيد البوت
+
+
+> [!TIP]
+> **البوت قيد الصيانة؟** إذا كان بوت التحقق غير متاح مؤقتًا، يمكنك إنشاء بطاقة طالب تجريبية هنا: [🎓 Student Card Generator](https://thanhnguyxn.github.io/student-card-generator/)
+
+### ✨ الخطوة 4: تفعيل Gemini Advanced
+
+1. بعد التحقق، سجل في **Google One AI Premium**
+2. أضف طريقة الدفع الخاصة بك (لا توجد رسوم خلال الفترة المجانية)
+3. أكمل التسجيل
+
+> [!NOTE]
+> **مستخدمو VPN:** بعد التحقق، افصل VPN وأعد تحميل الصفحة قبل إضافة طريقة الدفع. هذا يضمن التوافق مع خيارات الدفع في بلدك.
+
+### ⚙️ الخطوة 5: إدارة اشتراكك
+
+قم بزيارة [اشتراكات Google Play](https://play.google.com/store/account/subscriptions) للإلغاء قبل انتهاء فترة الـ 12 شهرًا.
+
+**⏰ نصيحة:** قم بتعيين تذكير في التقويم لتجنب رسوم التجديد التلقائي!
+
+## 🎁 المزايا
+
+عند الانتهاء بنجاح، ستحصل على:
+
+- ✨ **Gemini Advanced** - مجانًا لمدة 12 شهرًا
+- 💾 **2TB Google Drive** - مساحة تخزين سحابية كبيرة
+- 📝 **NotebookLM Pro** - قدرات متقدمة لتدوين الملاحظات
+- 🎥 **1,000 رصيد فيديو بالذكاء الاصطناعي** - إنشاء مقاطع فيديو باستخدام VEO3
+
+## ⚠️ ملاحظات الأمان
+
+- 🔐 استخدم فقط مصادر البوت الموثوقة المدرجة في هذا الدليل
+- 🚫 لا تشارك معلومات الدفع مع أطراف ثالثة أبدًا
+- ⏰ بعد 12 شهرًا، ستصبح الحزمة مدفوعة إذا لم يتم إلغاؤها
+
+## 🔗 موارد إضافية
+
+**تحقق بديل:** إذا لم تتمكن من التحقق عبر تيليجرام، استخدم [أداة التحقق SheerID](https://thanhnguyxn.github.io/SheerID-Verification-Tool/)
+
+**روابط رسمية:**
+- [Google One AI Premium](https://one.google.com)
+- [مركز مساعدة Gemini](https://support.google.com/gemini)
+
+---
+
+## 💖 دعم المشروع
+
+إذا وجدت هذا الدليل مفيدًا، يرجى التفكير في الدعم للمساعدة في الحفاظ على المشروع وتحسينه:
+
+<a href="https://buymeacoffee.com/thanhnguyxn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
+## 🌐 لغات أخرى
+
+- [🇬🇧 English](../README.md)
+- [🇻🇳 Tiếng Việt](README.vi.md)
+- [🇪🇸 Español](README.es.md)
+- [🇫🇷 Français](README.fr.md)
+- [🇩🇪 Deutsch](README.de.md)
+- [🇨🇳 中文](README.zh.md)
+- [🇧🇷 Português](README.pt-BR.md)
+- [🇷🇺 Русский](README.ru.md)
+- [🇯🇵 日本語](README.ja.md)
+- [🇰🇷 한국어](README.ko.md)
+- [🇮🇩 Indonesia](README.id.md)
+- [🇮🇳 हिन्दी](README.hi.md)
+- [🇸🇦 العربية](README.ar.md)
+- [🇹🇷 Türkçe](README.tr.md)
+- [🇮🇹 Italiano](README.it.md)
+- [🇹🇭 ไทย](README.th.md)
+- [🇵🇱 Polski](README.pl.md)
+
+---
+
+## 📄 الترخيص
+
+هذا المشروع مرخص بموجب ترخيص MIT - انظر ملف [LICENSE](LICENSE) للتفاصيل.
+
+Copyright (c) 2025 SheerID Verification Tool Contributors
+
+---
+
+<div align="center">
+
+**صنع بـ ❤️ للطلاب في جميع أنحاء العالم**
+
+إذا وجدت هذا الدليل مفيدًا، يرجى التفكير في منح ⭐ على [GitHub](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)!
+
+[⬆ العودة إلى الأعلى](#-sheerid-verification-tool)
+
+</div>
